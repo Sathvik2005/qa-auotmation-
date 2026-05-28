@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous QA Automation Platform",
+  "description": "An AI-native autonomous QA automation and visual regression testing platform that compares Prototype versus Stage environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
